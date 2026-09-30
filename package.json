@@ -1,0 +1,16 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Minimalist Tic-Tac-Toe web game",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "game",
+    "vanilla-js"
+  ],
+  "author": "",
+  "license": "MIT"
+}
